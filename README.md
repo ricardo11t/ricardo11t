@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/Matrix.gif" alt="Banner Animado de Código">
+  <img src="https://github.com/ricardo11t/ricardo11t/blob/main/meow-code-cat-pc.gif" alt="Banner Animado de Código">
 </p>
 
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Desenvolvedor+de+Software;Apaixonado+por+Programação;Criador+de+soluções+digitais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Desenvolvedor+de+Software;Apaixonado+por+Programação" alt="Typing SVG" />
   </a>
 </p>
 
