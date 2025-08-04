@@ -30,7 +30,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td valign="top" width="50%">
       <strong>Backend:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,java,c,python,express" />
+        <img src="https://skillicons.dev/icons?i=nodejs,java,spring,c,python,express" />
       </a>
     </td>
   </tr>
@@ -41,7 +41,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td valign="top" width="50%">
       <strong>Outros:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode,figma,postman,jest,cypress" />
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode,idea,figma,postman,jest,cypress" />
       </a>
     </td>
   </tr>
