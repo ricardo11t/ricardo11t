@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Apaixonado+por+Java+e+TypeScript;Criador+de+soluções+digitais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Desenvolvedor+de+Software;Apaixonado+por+Programação;Criador+de+soluções+digitais" alt="Typing SVG" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td width="50%" valign="top">
       <h3 align="center">JReno</h3>
       <br />
-      <img height="480em" src="https://skillicons.dev/icons?i=electron" alt="Preview do projeto Marban" />
+      <img height="480em" style="max-width: 200px" src="https://skillicons.dev/icons?i=electron" alt="Preview do projeto Marban" />
       <a href="https://github.com/ricardo11t/JReno">
         <p>Repositório</p>
       </a>
@@ -85,7 +85,8 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
       <p align="center">
         Aplicação solo em TypeScript. Usando o framework Electron, para
         construção de uma aplicação desktop, React e Tailwind para o frontend, e
-        Node para o backend (Automação).
+        Node para o backend (Automação). A aplicação é uma RPA (robotic process automation) 
+        para automação de processos repetitivos.
       </p>
     </td>
   </tr>
