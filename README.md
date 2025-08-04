@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ricardo11t/ricardo11t/blob/main/meow-code-cat-pc.gif" alt="Banner Animado de Código">
+  <img src="https://github.com/ricardo11t/ricardo11t/blob/main/meow-code-cat-pc.gif" alt="cat">
 </p>
 
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
