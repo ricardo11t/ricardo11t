@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/39886365/154131560-4966144c-2510-4443-9b37-e16738a2e58e.gif" alt="Banner Animado de Código">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/Matrix.gif" alt="Banner Animado de Código">
 </p>
 
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
