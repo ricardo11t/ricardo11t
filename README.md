@@ -24,13 +24,13 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td valign="top" width="50%">
       <strong>Frontend:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,html,css,typescript,javascript" />
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,react,electron,html,css" />
       </a>
     </td>
     <td valign="top" width="50%">
       <strong>Backend:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,java,python,c,electron,express" />
+        <img src="https://skillicons.dev/icons?i=nodejs,java,c,python,express" />
       </a>
     </td>
   </tr>
