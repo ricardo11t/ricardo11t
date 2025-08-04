@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Desenvolvedor+de+Software;Apaixonado+por+Programação" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=8000&pause=1000&color=47753E&center=true&width=800&height=100&lines=Hello%2C+World!" alt="Typing SVG" />
   </a>
 </p>
 
