@@ -77,7 +77,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td width="50%" valign="top">
       <h3 align="center">JReno</h3>
       <br />
-      <img height="480em" style="max-width: 200px" src="https://skillicons.dev/icons?i=electron" alt="Preview do projeto Marban" />
+      <img height="50%" width="100%" src="https://skillicons.dev/icons?i=electron" alt="Preview do projeto Marban" />
       <a href="https://github.com/ricardo11t/JReno">
         <p>Repositório</p>
       </a>
