@@ -41,7 +41,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td valign="top" width="50%">
       <strong>Outros:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode,idea,figma,postman,jest,cypress" />
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,neovim,vscode,idea,figma,postman,jest,cypress" />
       </a>
     </td>
   </tr>
