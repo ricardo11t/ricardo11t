@@ -9,6 +9,12 @@
   </a>
 </p>
 
+## 🚨 Meu Portifólio 🚨
+<div>
+  <p>Frontend e backend completamente em TypeScript. Aplicação hospedada em uma instância EC2 da AWS e com domínio comprado na GoDaddy. Feita de maneira completamente profissional, utilizando docker para CI/CD na instância EC2 de tipo t3.micro, React com shadcn no frontend. API em express para a facilitação para a adição de novas informações para o site. Banco de dados MySQL para o armazenamento de dados, como skills e projetos.</p>
+  <p>Acesse meu portifólio no link a seguir: <a href="https://www.ricardoholanda.com.br" target="_blank">www.ricardoholanda.com.br</a></p>
+</div>
+
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escaláveis. Com experiência em TypeScript e Java, gosto de trabalhar tanto no front-end quanto no back-end para construir aplicações completas.
