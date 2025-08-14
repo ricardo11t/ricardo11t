@@ -70,7 +70,7 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br />
-        <img style="max-width: 400px;" src="https://github.com/ricardo11t/portfolio/blob/main/frontend%2Fpublic%2Ficone.png" alt="Logo Portfólio" />
+        <img style="width:400px" src="https://github.com/ricardo11t/portfolio/blob/main/frontend%2Fpublic%2Ficone.png" alt="Logo Portfólio" />
         <a href="https://github.com/ricardo11t/portfolio"><p>Repositório</p><a/>
       <br />
       <p align="center">
