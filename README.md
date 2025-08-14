@@ -69,10 +69,10 @@ Sou um desenvolvedor focado em criar aplicações web/desktop robustas e escalá
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Marban</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
         <img style="max-width: 200px;" src="https://github.com/ricardo11t/marban/blob/main/public/img/logo-site.png" alt="Preview do projeto Marban" />
-        <a href="https://github.com/ricardo11t/marban"><p>Repositório</p><a/>
+        <a href="https://github.com/ricardo11t/portfolio"><p>Repositório</p><a/>
       <br />
       <p align="center">
         Aplicação em TypeScript. Usando React, Express, MySQl. Com domínio próprio e uso de GitHub Actions para o pipeline de CI/CD, que utiliza Docker para criar, testar e empacotar a aplicação, garantindo um deploy contínuo e consistente na instância EC2.
